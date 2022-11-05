@@ -1,4 +1,4 @@
-# trabalho-final-python
+# titanic-facens
 Trabalho final da disciplina de algoritmos de Python na pós graduação de ciência de dados
 
 Trabalho consiste numa análise estatística de um CSV com dados sobre passageiros no Titanic.
